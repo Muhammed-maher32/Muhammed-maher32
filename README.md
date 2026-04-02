@@ -50,9 +50,9 @@
 </div>
  
 <div align="center">
-  <a href="mailto:muhammedmaher916@gmail.com" target="_blank"> 
-      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="40"/></a> &nbsp;
-  </a> 
+  <a href="mailto:muhammedmaher916@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+</a>
   <a href="https://www.linkedin.com/in/muhammed-maher/" target="_blank"> 
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="40"/></a> &nbsp;
   </a> 
