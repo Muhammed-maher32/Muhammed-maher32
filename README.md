@@ -26,7 +26,7 @@
 </h3> 
 
 <h3 align="center"> 
-🛠️ Skilled in <b>C#</b>, <b>.NET</b>, and <b>SQL Server</b>, with a strong interest in <b>System Architecture</b> and <b>Design Patterns</b>. 
+🛠️ Seeking to be Skilled in <b>C#</b>, <b>.NET</b>, and <b>SQL Server</b>, with a strong interest in <b>System Architecture</b> and <b>Design Patterns</b>. 
 </h3> 
 
 <h3 align="center"> 
