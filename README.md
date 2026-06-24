@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;Backend+Developer+%7C+.NET+%26+C%23;CS+Student+%7C+Problem+Solver"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;Backend+Developer+%7C+.NET+%26+C%23;CS+Student+%7C+Problem+Solver;ECPC+Competitive+Programmer+%F0%9F%8F%86;Open+to+Internships+%F0%9F%9A%80;Coffee-powered+Debugger+%E2%98%95"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,9 +45,21 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-maher32&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Muhammed-maher32&theme=radical&hide_border=true"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muhammed-maher32/Muhammed-maher32/output/snake.svg" alt="snake"/>
+</p>
+
+<!-- Footer -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammed-maher32&color=a463e2&style=flat-square"/>
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" alt="Thanks"/>
+</p>
