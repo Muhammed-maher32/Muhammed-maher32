@@ -1,31 +1,58 @@
-# Hi, I'm Muhammed Maher 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=a463e2&height=160&section=header&text=Muhammed%20Maher&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</div>
 
-**Backend Developer | CS Student | Competitive Programmer**
+<div align="center">
+  <a href="mailto:muhammedmaher916@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammed-maher/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@MuhammedMaherr_32"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/MID0_o"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+</div>
 
-I'm a Computer Science student passionate about building robust backend systems.
-I specialize in **C#**, **.NET**, and **SQL Server**, with a strong interest in
-**System Architecture** and **Design Patterns**.
+<br>
 
-- 🏆 Competitive programmer — ECPC participant | [Codeforces: MID0_o](https://codeforces.com/profile/MID0_o)
-- 🤝 Open to internship opportunities
-- 💬 Ask me about .NET · C# · SQL Server · Problem Solving
+> CS Student · Backend Developer (.NET & C#) · ECPC Competitive Programmer · Open to Internships
 
-## Find me around the web 🌎
+<br>
 
-- 📧 [muhammedmaher916@gmail.com](mailto:muhammedmaher916@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-maher/)
-- 🎬 [YouTube](https://www.youtube.com/@MuhammedMaherr_32)
-- ⚔️ [Codeforces](https://codeforces.com/profile/MID0_o)
+<details>
+  <summary><b>🛠️ Languages & Tools</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,html,css,git,github,vscode&perline=9"/>
+  </div>
+</details>
 
----
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammed-maher32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-maher32&layout=compact&theme=tokyonight&hide_border=true"/>
+  </div>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-maher32&theme=tokyonight&hide_border=true"/>
+  </div>
+</details>
 
-## Skills
+<details>
+  <summary><b>🏆 Trophies</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Muhammed-maher32&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
+  </div>
+</details>
 
-**Languages:** C++ · C# · JavaScript · HTML · CSS
+<details>
+  <summary><b>⚔️ Competitive Programming</b></summary>
+  <br>
+  <div align="center">
+    <a href="https://codeforces.com/profile/MID0_o">
+      <img src="https://img.shields.io/badge/Codeforces-MID0__o-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    </a>
+  </div>
+</details>
 
-**Frameworks & Tools:** .NET · Git · GitHub · Visual Studio · VS Code
-
----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-maher32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-maher32&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammed-maher32&color=a463e2&style=for-the-badge&label=PROFILE+VIEWS"/>
+</div>
