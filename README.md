@@ -1,9 +1,13 @@
 <!-- ══════════════════ HEADER ══════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;Backend+Developer+%7C+.NET+%26+C%23;Competitive+Programmer+%F0%9F%8F%86;CS+Student+%7C+Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a463e2&height=200&section=header&text=Muhammed%20Maher&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20%26%20C%23%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;CS+Student+%7C+Backend+Developer;.NET+%7C+C%23+%7C+SQL+Server;Competitive+Programmer+%F0%9F%8F%86;Open+to+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
+
+<br>
 
 <!-- ══════════════════ SOCIALS ══════════════════ -->
 <div align="center">
@@ -13,27 +17,33 @@
   <a href="https://www.linkedin.com/in/muhammed-maher/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@MohamedElshahat32">
+  <a href="https://www.youtube.com/@MuhammedMaherr_32">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/MID0_o">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </div>
 
 <br>
 
-<!-- ══════════════════ BIO ══════════════════ -->
-<table border="0" align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ══════════════════ ABOUT ══════════════════ -->
+<table border="0" align="center" width="100%">
   <tr>
     <td width="55%" valign="top">
+      <h2>👨‍💻 About Me</h2>
       <p>
         Computer Science student and Backend Developer specializing in <b>C#</b>, <b>.NET</b>, and <b>SQL Server</b>.
         Strong foundation in <b>System Architecture</b>, <b>Design Patterns</b>, and <b>Object-Oriented Programming</b>.
       </p>
       <ul>
-        <li>🎯 <b>Focusing on:</b> Backend development & system design</li>
-        <li>🏆 <b>Competitive Programmer:</b> ECPC participant</li>
-        <li>🤝 <b>Open for:</b> Internship opportunities</li>
-        <li>💬 <b>Ask me about:</b> .NET, C#, SQL Server, Problem Solving</li>
-        <li>⚡ <b>Fun fact:</b> I debug faster with coffee ☕</li>
+        <li>🏆 <b>Competitive Programmer</b> — ECPC participant</li>
+        <li>🎯 <b>Focusing on</b> — Backend systems & problem solving</li>
+        <li>🤝 <b>Open for</b> — Internship opportunities</li>
+        <li>💬 <b>Ask me about</b> — .NET · C# · SQL Server · DSA</li>
+        <li>⚡ <b>Fun fact</b> — I debug faster with coffee ☕</li>
       </ul>
     </td>
     <td width="45%" align="center">
@@ -45,7 +55,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════ SKILLS ══════════════════ -->
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">🛠️ Languages & Tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,html,css,git,github,vscode&perline=9"/>
@@ -53,8 +63,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ══════════════════ COMPETITIVE PROGRAMMING ══════════════════ -->
+<details>
+  <summary><h3>🏅 Competitive Programming Profiles</h3></summary>
+  <br>
+  <div align="center">
+    <a href="https://codeforces.com/profile/MID0_o">
+      <img src="https://img.shields.io/badge/Codeforces-MID0__o-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    </a>
+  </div>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- ══════════════════ STATS ══════════════════ -->
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammed-maher32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -68,7 +91,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════ TROPHIES ══════════════════ -->
-<h3 align="center">Trophies</h3>
+<h3 align="center">🏆 Trophies</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammed-maher32&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
@@ -81,6 +104,6 @@
   <img src="https://komarev.com/ghpvc/?username=Muhammed-maher32&color=a463e2&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="15%">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a463e2&height=120&section=footer"/>
+</div>
