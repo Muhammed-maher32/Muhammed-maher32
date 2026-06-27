@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;Backend+Developer+%7C+.NET+%26+C%23;CS+Student+%7C+Problem+Solver;ECPC+Competitive+Programmer+%F0%9F%8F%86;Open+to+Internships+%F0%9F%9A%80;Coffee-powered+Debugger+%E2%98%95"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;Backend+Developer;CS+Student+%7C+Problem+Solver;ECPC+Competitive+Programmer+%F0%9F%8F%86;Open+to+Internships+%F0%9F%9A%80;Coffee-powered+Debugger+%E2%98%95"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -12,11 +12,10 @@
         Strong foundation in <b>System Architecture</b>, <b>Design Patterns</b>, and <b>OOP</b>.
       </p>
       <ul>
-        <li>🏆 <b>Competitive Programmer</b> — ECPC participant</li>
         <li>🎯 <b>Focusing on</b> — Backend systems & problem solving</li>
+        <li>🏆 <b>Competitive Programmer</b> — ECPC participant</li>
         <li>🤝 <b>Open for</b> — Internship opportunities</li>
         <li>💬 <b>Ask me about</b> — .NET · C# · SQL Server · DSA</li>
-        <li>⚡ <b>Fun fact</b> — I debug faster with coffee ☕</li>
       </ul>
       <div>
         <a href="mailto:muhammedmaher916@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
