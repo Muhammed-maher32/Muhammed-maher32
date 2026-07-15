@@ -25,7 +25,7 @@
       </div>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px"/>
+      <img src="https://raw.githubusercontent.com/Muhammed-maher32/Muhammed-maher32/main/assets/coding.gif" width="280px" alt="Coding illustration"/>
     </td>
   </tr>
 </table>
@@ -37,11 +37,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammed-maher32&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-maher32&layout=compact&theme=radical&hide_border=true"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Muhammed-maher32&theme=radical&hide_border=true"/>
@@ -60,5 +55,5 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" alt="Thanks"/>
+  <img src="https://raw.githubusercontent.com/Muhammed-maher32/Muhammed-maher32/main/assets/thanks.gif" width="20%" alt="Thanks"/>
 </p>
