@@ -6,6 +6,8 @@
 <h3 align="center">Computer Science student and Backend Developer specializing in C#, .NET, and SQL Server, with a strong foundation in System Architecture, Design Patterns, and OOP </h3>
 <h4 align="center">I'd be happy to talk about<br><br>Backend development with .NET ⚙️<br>Databases & SQL Server 🗄️<br>Competitive programming, participated in ECPC qualifications 🏆<br>Internship opportunities 🚀</h4>
 
+<h4 align="center">Currently building with ASP.NET Core and writing down everything I learn in <a href="https://github.com/Muhammed-maher32/DotNet-Learning">DotNet-Learning</a> 📘</h4>
+
 <!-- Cover Image -->
 <p align="center">
 <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
