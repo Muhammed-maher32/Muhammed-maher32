@@ -4,7 +4,6 @@
 </div>
 
 <h3 align="center">Computer Science student and Backend Developer specializing in C#, .NET, and SQL Server, with a strong foundation in System Architecture, Design Patterns, and OOP </h3>
-<h3 align="center">Competitive programmer and ECPC participant, always sharpening my problem solving 🏆</h3>
 <h4 align="center">I'd be happy to talk about<br><br>Backend development with .NET ⚙️<br>Databases & SQL Server 🗄️<br>Competitive programming, participated in ECPC qualifications 🏆<br>Internship opportunities 🚀</h4>
 
 <!-- Cover Image -->
@@ -71,8 +70,7 @@
 <!-- Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammed-maher32&label=Profile%20views&color=a463e2&style=flat" alt="Muhammed-maher32" />
-  <img src="https://img.shields.io/github/followers/Muhammed-maher32?label=Followers&style=flat&logo=github&color=yellow" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammed-maher32&query=%24.public_repos&label=Public%20Repositories&style=flat&logo=github&color=green" alt="Public Repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammed-maher32&query=%24.public_repos&label=Public%20Repositories&style=flat&color=green" alt="Public Repositories" />
 </p>
 <!-- Snake -->
 <p align="center"><img src="https://raw.githubusercontent.com/Muhammed-maher32/Muhammed-maher32/output/snake.svg?v=2" alt="snake" /></p>
