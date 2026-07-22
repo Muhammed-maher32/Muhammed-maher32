@@ -3,8 +3,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;Junior+SWE;CS+Student+%7C+Problem+Solver;Open+to+Internships+%26+Jobs+%F0%9F%9A%80"/>
 </div>
 
-<h3 align="center">Computer Science student and Backend Developer specializing in C#, .NET, and SQL Server, with a strong foundation in System Architecture, Design Patterns, and OOP </h3>
-<h4 align="center">I'd be happy to talk about<br><br>Backend development with .NET ⚙️<br>Databases & SQL Server 🗄️<br>Competitive programming, participated in ECPC qualifications 🏆<br>Internship opportunities 🚀</h4>
+<h3 align="center">Computer Science student & Backend Developer specializing in <b>C#</b>, <b>.NET</b> and <b>SQL Server</b></h3>
+<p align="center">Strong foundation in <b>System Architecture</b>, <b>Design Patterns</b> and <b>OOP</b></p>
+
+<h4 align="center">I'd be happy to talk about</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️%20Backend%20Development%20with%20.NET-512BD4?style=for-the-badge" alt="Backend Development"/>
+  <img src="https://img.shields.io/badge/🗄️%20Databases%20%26%20SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Competitive%20Programming%20·%20ECPC%20Qualifications-F5A623?style=for-the-badge" alt="Competitive Programming"/>
+  <img src="https://img.shields.io/badge/🚀%20Internship%20Opportunities-2EA44F?style=for-the-badge" alt="Internships"/>
+</p>
 
 <!-- Cover Image -->
 <p align="center">
