@@ -70,7 +70,7 @@
 <!-- Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammed-maher32&label=Profile%20views&color=a463e2&style=flat" alt="Muhammed-maher32" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammed-maher32&query=%24.public_repos&label=Public%20Repositories&style=flat&color=green&cacheSeconds=86400" alt="Public Repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FMuhammed-maher32&query=%24.stars&label=GitHub%20Stars&style=flat&color=green" alt="GitHub Stars" />
 </p>
 <!-- Snake -->
 <p align="center"><img src="https://raw.githubusercontent.com/Muhammed-maher32/Muhammed-maher32/output/snake.svg?v=2" alt="snake" /></p>
