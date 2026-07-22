@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;Junior+SWE;CS+Student+%7C+Problem+Solver;Open+to+Internships+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;Junior+SWE;CS+Student+%7C+Problem+Solver;Open+to+Internships+%26+Jobs+%F0%9F%9A%80"/>
 </div>
 
 <h3 align="center">Computer Science student and Backend Developer specializing in C#, .NET, and SQL Server, with a strong foundation in System Architecture, Design Patterns, and OOP </h3>
