@@ -6,7 +6,7 @@
 <h3 align="center">Computer Science student & Backend Developer specializing in <b>C#</b>, <b>.NET</b> and <b>SQL Server</b></h3>
 <p align="center">Strong foundation in <b>System Architecture</b>, <b>Design Patterns</b> and <b>OOP</b></p>
 
-<h4 align="center">I'd be happy to talk about<br><br>Backend development with .NET ⚙️<br>Databases & SQL Server 🗄️<br>Participated in ECPC qualifications 🏆<br>Internship opportunities 🚀</h4>
+<h4 align="center">I'd be happy to talk about<br><br>Backend development<br>Databases<br>Participated in ECPC qualifications 🏆<br>Internship opportunities 🚀</h4>
 
 <!-- Cover Image -->
 <p align="center">
