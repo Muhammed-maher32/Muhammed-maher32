@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;Junior+SWE;CS+Student+%7C+Problem+Solver;Open+to+Internships+%26+Jobs+%F0%9F%9A%80"/>
 </div>
 
-<h3 align="center">Computer Science student & Backend Developer specializing in <b>C#</b>, <b>.NET</b> and <b>SQL Server</b></h3>
+<h3 align="center">Computer Science student & SWE </h3>
 <p align="center">Strong foundation in <b>System Architecture</b>, <b>Design Patterns</b> and <b>OOP</b></p>
 
 <h4 align="center">I'd be happy to talk about<br><br>Backend development<br>Databases<br>Participated in ECPC qualifications 🏆<br>Internship opportunities 🚀</h4>
