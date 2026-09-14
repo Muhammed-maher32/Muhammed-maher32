@@ -1,12 +1,13 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A463E2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Muhammed+Maher+%F0%9F%91%8B;Junior+SWE;CS+Student+%7C+Problem+Solver;Open+to+Internships+%26+Jobs+%F0%9F%9A%80"/>
+  <h1 align="center">Hey, I'm Mohamed maher <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
+
 </div>
 
 <h3 align="center">Computer Science student & SWE </h3>
-<p align="center">Strong foundation in <b>System Architecture</b>, <b>Design Patterns</b> and <b>OOP</b></p>
+<p align="center">Strong foundation in <b>Computer Science fields</b> </p>
 
-<h4 align="center">I'd be happy to talk about<br><br>Backend development<br>Databases<br>Participated in ECPC qualifications 🏆<br>Internship opportunities 🚀</h4>
+<h4 align="center">I'd be happy to talk about<br><br>Backend development<br>Databases<br>Competive Programming<br></h4>
 
 <!-- Cover Image -->
 <p align="center">
@@ -24,12 +25,6 @@
   </a>
   <a href="https://www.linkedin.com/in/muhammed-maher/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@MuhammedMaherr_32" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://codeforces.com/profile/MID0_o" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="40" height="40" alt="codeforces logo"  />
   </a>
 </div>
 
@@ -69,12 +64,6 @@
 </div>
 
 ---
-<!-- Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammed-maher32&label=Profile%20views&color=a463e2&style=flat" alt="Muhammed-maher32" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FMuhammed-maher32&query=%24.stars&label=GitHub%20Stars&style=flat&color=green" alt="GitHub Stars" />
-</p>
 <!-- Snake -->
 <p align="center"><img src="https://raw.githubusercontent.com/Muhammed-maher32/Muhammed-maher32/output/snake.svg?v=2" alt="snake" /></p>
-<!-- Thanks -->
-<p align="center"><img src="https://raw.githubusercontent.com/Muhammed-maher32/Muhammed-maher32/main/assets/thanks.gif" width="20%" alt="Thanks" /></p>
+
